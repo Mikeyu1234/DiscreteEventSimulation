@@ -6,7 +6,5 @@ tandonqueue.py
 ## Run Simulike Simulation: 
 TandoneQueuingSys.slx
 # Reference
-## 
-https://www.grotto-networking.com/DiscreteEventPython.html
-## 
-https://ww2.mathworks.cn/help/simevents/examples.html?category=getting-started-with-simevents&s_tid=CRUX_topnav
+>https://www.grotto-networking.com/DiscreteEventPython.html
+>https://ww2.mathworks.cn/help/simevents/examples.html?category=getting-started-with-simevents&s_tid=CRUX_topnav
